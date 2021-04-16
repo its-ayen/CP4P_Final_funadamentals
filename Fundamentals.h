@@ -1,5 +1,5 @@
 /*
-Fundamentals Version 1
+Fundamentals Version 2
 by Ayen Pino-McLarty
 Student Number: 119291169
 Email: apino-mclarty@myseneca.ca

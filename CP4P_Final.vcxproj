@@ -142,8 +142,8 @@
     <ClInclude Include="Fundamentals.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fundamentals.c" />
     <ClCompile Include="Main.c" />
+    <ClCompile Include="v2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
